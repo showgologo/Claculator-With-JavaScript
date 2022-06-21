@@ -1,4 +1,4 @@
-// A javaScript Only Calculator
+// A javaScript Only Calculator by showgologo
 
 var firstNumber = window.prompt("Input Fist Number");
 var secondNumber = window.prompt("Input Second Number");
